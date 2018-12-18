@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'images',
     'sorl.thumbnail',
     'actions',
+
     #'actions.apps.ActionsConfig',
 ]
 

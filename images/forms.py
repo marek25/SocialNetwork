@@ -1,8 +1,12 @@
-#from urllib import request
+
+
+from urllib import request
 #from urllib.request import urlopen, Request
 # import urllib.request
-from urllib2 import urlopen
-#from urllib.request import urlopen, Request
+#from urllib2 import urlopen
+
+
+from urllib.request import urlopen, Request
 from django import forms
 from django.core.files.base import ContentFile
 from django.utils.text import slugify
